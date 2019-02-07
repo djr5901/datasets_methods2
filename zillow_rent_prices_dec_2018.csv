@@ -1,0 +1,653 @@
+metro_area,state,size_rank,median_rent
+"New York, NY",NY,1,2408
+"Los Angeles-Long Beach-Anaheim, CA",CA,2,2804
+"Chicago, IL",IL,3,1672
+"Dallas-Fort Worth, TX",TX,4,1626
+"Philadelphia, PA",PA,5,1593
+"Houston, TX",TX,6,1572
+"Washington, DC",DC,7,2157
+"Miami-Fort Lauderdale, FL",FL,8,1894
+"Atlanta, GA",GA,9,1426
+"Boston, MA",MA,10,2385
+"San Francisco, CA",CA,11,3433
+"Detroit, MI",MI,12,1218
+"Riverside, CA",CA,13,1951
+"Seattle, WA",WA,14,2213
+"Minneapolis-St Paul, MN",MN,15,1678
+"San Diego, CA",CA,16,2606
+"St. Louis, MO",MO,17,1149
+"Tampa, FL",FL,18,1417
+"Baltimore, MD",MD,19,1747
+"Denver, CO",CO,20,2090
+"Pittsburgh, PA",PA,21,1096
+"Portland, OR",OR,22,1857
+"Charlotte, NC",NC,23,1323
+"Sacramento, CA",CA,24,1885
+"San Antonio, TX",TX,25,1351
+"Orlando, FL",FL,26,1496
+"Cincinnati, OH",OH,27,1296
+"Cleveland, OH",OH,28,1154
+"Kansas City, MO",MO,29,1286
+"Columbus, OH",OH,30,1350
+"Indianapolis, IN",IN,31,1222
+"San Jose, CA",CA,32,3536
+"Austin, TX",TX,33,1694
+"Virginia Beach, VA",VA,34,1435
+"Nashville, TN",TN,35,1507
+"Providence, RI",RI,36,1690
+"Milwaukee, WI",WI,37,1335
+"Jacksonville, FL",FL,38,1374
+"Memphis, TN",TN,39,1113
+"Oklahoma City, OK",OK,40,1095
+"Louisville-Jefferson County, KY",KY,41,1192
+"Hartford, CT",CT,42,1599
+"Richmond, VA",VA,43,1413
+"New Orleans, LA",LA,44,1395
+"Buffalo, NY",NY,45,1220
+"Raleigh, NC",NC,46,1448
+"Birmingham, AL",AL,47,1083
+"Salt Lake City, UT",UT,48,1604
+"Rochester, NY",NY,49,1392
+"Grand Rapids, MI",MI,50,1358
+"Tucson, AZ",AZ,51,1223
+"Urban Honolulu, HI",HI,52,2384
+"Tulsa, OK",OK,53,1019
+"Fresno, CA",CA,54,1349
+"Worcester, MA",MA,55,1617
+"Stamford, CT",CT,56,2292
+"Albuquerque, NM",NM,57,1220
+"Albany, NY",NY,58,1543
+"Omaha, NE",NE,59,1311
+"New Haven, CT",CT,60,1632
+"Bakersfield, CA",CA,61,1289
+"Knoxville, TN",TN,62,1153
+"Greenville, SC",SC,63,1239
+"Ventura, CA",CA,64,2785
+"Allentown, PA",PA,65,1464
+"El Paso, TX",TX,66,991
+"Baton Rouge, LA",LA,67,1322
+"Dayton, OH",OH,68,982
+"McAllen, TX",TX,69,988
+"Columbia, SC",SC,70,1131
+"Akron, OH",OH,71,1103
+"North Port-Sarasota-Bradenton, FL",FL,72,1797
+"Little Rock, AR",AR,73,1008
+"Stockton, CA",CA,74,1684
+"Charleston, SC",SC,75,1627
+"Syracuse, NY",NY,76,1318
+"Colorado Springs, CO",CO,77,1546
+"Winston-Salem, NC",NC,78,1086
+"Wichita, KS",KS,79,954
+"Springfield, MA",MA,80,1616
+"Fort Myers, FL",FL,81,1625
+"Boise City, ID",ID,82,1312
+"Toledo, OH",OH,83,982
+"Madison, WI",WI,84,1446
+"Lakeland, FL",FL,85,1255
+"Ogden, UT",UT,86,1482
+"Daytona Beach, FL",FL,87,1411
+"Des Moines, IA",IA,88,1312
+"Jackson, MS",MS,89,1228
+"Youngstown, OH",OH,90,807
+"Augusta, GA",GA,91,938
+"Scranton, PA",PA,92,964
+"Harrisburg, PA",PA,93,1291
+"Melbourne, FL",FL,94,1431
+"Chattanooga, TN",TN,95,1199
+"Spokane, WA",WA,96,1330
+"Provo, UT",UT,97,1489
+"Lancaster, PA",PA,98,1230
+"Modesto, CA",CA,99,1514
+"Durham, NC",NC,100,1408
+"Santa Rosa, CA",CA,101,2857
+"Lexington, KY",KY,102,1195
+"Lafayette, LA",LA,103,1154
+"Lansing, MI",MI,104,1196
+"Fayetteville, AR",AR,105,1149
+"Pensacola, FL",FL,106,1191
+"Visalia, CA",CA,107,1213
+"Shreveport, LA",LA,108,1015
+"Springfield, MO",MO,109,841
+"York, PA",PA,110,1282
+"Corpus Christi, TX",TX,111,1377
+"Reno, NV",NV,112,1731
+"Asheville, NC",NC,113,1417
+"Port St. Lucie, FL",FL,114,1584
+"Huntsville, AL",AL,115,1137
+"Fort Wayne, IN",IN,116,1100
+"Salinas, CA",CA,117,2557
+"Vallejo, CA",CA,118,2184
+"Mobile, AL",AL,119,947
+"Reading, PA",PA,120,1265
+"Brownsville, TX",TX,121,921
+"Killeen, TX",TX,122,1020
+"Canton, OH",OH,123,947
+"Beaumont, TX",TX,124,1202
+"Manchester, NH",NH,125,1823
+"Salem, OR",OR,126,1535
+"Anchorage, AK",AK,127,1746
+"Davenport, IL",IL,128,947
+"Myrtle Beach, SC",SC,129,1285
+"Montgomery, AL",AL,130,937
+"Salisbury, MD",DE,131,1317
+"Gulfport, MS",MS,132,1037
+"Tallahassee, FL",FL,133,1219
+"Trenton, NJ",NJ,134,1893
+"Fayetteville, NC",NC,135,895
+"Hickory, NC",NC,136,992
+"Huntington, WV",WV,137,926
+"Eugene, OR",OR,138,1433
+"Rockford, IL",IL,139,1096
+"Savannah, GA",GA,140,1285
+"Ann Arbor, MI",MI,141,1857
+"Ocala, FL",FL,142,1160
+"Kalamazoo, MI",MI,143,1242
+"South Bend, IN",IN,144,998
+"Spartanburg, SC",SC,145,1098
+"Evansville, IN",IN,146,998
+"Kingsport, TN",TN,147,991
+"Roanoke, VA",VA,148,1173
+"Lincoln, NE",NE,149,1299
+"Fort Collins, CO",CO,150,1743
+"Columbus, GA",GA,151,906
+"Boulder, CO",CO,152,2268
+"Lubbock, TX",TX,153,1147
+"Erie, PA",PA,154,946
+"Fort Smith, AR",AR,155,851
+"Duluth, MN",MN,156,1123
+"Atlantic City, NJ",NJ,157,1453
+"New London, CT",CT,158,1480
+"San Luis Obispo, CA",CA,159,2457
+"Gainesville, FL",FL,160,1321
+"Santa Cruz, CA",CA,161,3071
+"Clarksville, TN",TN,162,996
+"Cedar Rapids, IA",IA,163,1106
+"Merced, CA",CA,164,1330
+"Kennewick, WA",WA,165,1459
+"Greeley, CO",CO,166,1690
+"Waco, TX",TX,167,1187
+"Lynchburg, VA",VA,168,1133
+"Olympia, WA",WA,169,1682
+"Amarillo, TX",TX,170,1180
+"Binghamton, NY",NY,171,1188
+"Hagerstown, WV",MD,172,1206
+"Bremerton, WA",WA,173,1774
+"Laredo, TX",TX,174,1135
+"Yakima, WA",WA,175,1163
+"Crestview-Fort Walton Beach-Destin, FL",FL,176,1503
+"Topeka, KS",KS,177,950
+"Macon-Bibb County, GA",GA,178,994
+"Champaign-Urbana, IL",IL,179,1136
+"Tuscaloosa, AL",AL,180,1239
+"College Station, TX",TX,181,1389
+"Sioux Falls, SD",SD,182,1186
+"Charleston, WV",WV,183,858
+"Chico, CA",CA,184,1472
+"Claremont, NH",NH,185,1476
+"Barnstable Town, MA",MA,186,1843
+"Longview, TX",TX,187,1196
+"Prescott, AZ",AZ,188,1557
+"Tyler, TX",TX,189,1230
+"Las Cruces, NM",NM,190,1033
+"Fargo, ND",ND,191,1312
+"Rochester, MN",MN,192,1348
+"Florence, SC",SC,193,976
+"Medford, OR",OR,194,1539
+"Lafayette-West Lafayette, IN",IN,195,1130
+"Lake Havasu City, AZ",AZ,196,1236
+"Johnson City, TN",TN,197,964
+"Yuma, AZ",AZ,198,906
+"Racine, WI",WI,199,1174
+"Athens, GA",GA,200,1250
+"Torrington, CT",CT,201,1584
+"St. Cloud, MN",MN,202,1310
+"Hilton Head Island, SC",SC,203,1780
+"Hilo, HI",HI,204,1771
+"Panama City, FL",FL,205,1344
+"Kingston, NY",NY,206,1713
+"Daphne, AL",AL,207,1406
+"Gainesville, GA",GA,208,1349
+"Warner Robins, GA",GA,209,1011
+"Blacksburg, VA",VA,210,1159
+"Redding, CA",CA,211,1396
+"Joplin, MO",MO,212,789
+"El Centro, CA",CA,213,1139
+"Terre Haute, IN",IN,214,752
+"East Stroudsburg, PA",PA,215,1296
+"Sioux City, IA",IA,216,1042
+"Greenville, NC",NC,217,1029
+"Yuba City, CA",CA,218,1472
+"Abilene, TX",TX,219,1036
+"Columbia, MO",MO,220,1117
+"Dover, DE",DE,221,1264
+"Eau Claire, WI",WI,222,1083
+"Janesville, WI",WI,223,861
+"Jackson, MI",MI,224,1001
+"Punta Gorda, FL",FL,225,1707
+"Bloomington, IN",IN,226,1217
+"Pueblo, CO",CO,227,1120
+"Billings, MT",MT,228,1254
+"Bowling Green, KY",KY,229,1073
+"Bend, OR",OR,230,1717
+"Albany, GA",GA,231,936
+"Vineland, NJ",NJ,232,1261
+"Ottawa, IL",IL,233,1034
+"State College, PA",PA,234,1493
+"Bangor, ME",ME,235,1189
+"Alexandria, LA",LA,236,1116
+"Decatur, AL",AL,237,832
+"Hanford, CA",CA,238,1187
+"Iowa City, IA",IA,239,1406
+"Wichita Falls, TX",TX,240,897
+"Burlington, NC",NC,241,1016
+"Madera, CA",CA,242,1314
+"Jefferson City, MO",MO,243,936
+"Chambersburg, PA",PA,244,1134
+"Texarkana, TX",TX,245,1011
+"Elizabethtown, KY",KY,246,1021
+"Florence, AL",AL,247,879
+"Grand Junction, CO",CO,248,1262
+"Concord, NH",NH,249,1609
+"Dothan, AL",AL,250,906
+"Santa Fe, NM",NM,251,1837
+"Johnstown, PA",PA,252,664
+"Traverse City, MI",MI,253,1342
+"Hattiesburg, MS",MS,254,1128
+"Dalton, GA",GA,255,1093
+"Homosassa Springs, FL",FL,256,1198
+"Auburn, AL",AL,257,1210
+"Valdosta, GA",GA,258,989
+"Coeur d'Alene, ID",ID,259,1432
+"Springfield, OH",OH,260,815
+"St. George, UT",UT,261,1459
+"Vero Beach, FL",FL,262,1543
+"Napa, CA",CA,263,2937
+"Tupelo, MS",MS,264,1090
+"Eureka, CA",CA,265,1504
+"Rapid City, SD",SD,266,1293
+"Lumberton, NC",NC,267,833
+"Wausau, WI",WI,268,1016
+"Lebanon, PA",PA,269,1178
+"Idaho Falls, ID",ID,270,1137
+"Sierra Vista, AZ",AZ,271,888
+"Lawton, OK",OK,272,730
+"Farmington, NM",NM,273,1106
+"Jackson, TN",TN,274,908
+"Morgantown, WV",WV,275,1146
+"Winchester, VA",VA,276,1366
+"New Bern, NC",NC,277,1030
+"Logan, ID",UT,278,1096
+"Harrisonburg, VA",VA,279,1209
+"Beckley, WV",WV,280,785
+"Weirton, OH",OH,281,766
+"Goldsboro, NC",NC,282,954
+"Hammond, LA",LA,283,1196
+"Jonesboro, AR",AR,284,994
+"Sherman, TX",TX,285,1251
+"Anniston, AL",AL,286,770
+"Staunton, VA",VA,287,1245
+"Mount Vernon, WA",WA,288,1697
+"Albany, OR",OR,289,1401
+"Watertown, NY",NY,290,1195
+"Williamsport, PA",PA,291,1038
+"Cleveland, TN",TN,292,993
+"Sheboygan, WI",WI,293,1090
+"Owensboro, KY",KY,294,977
+"Dunn, NC",NC,295,1136
+"Wooster, OH",OH,296,1093
+"Morristown, TN",TN,297,1026
+"Kankakee, IL",IL,298,1111
+"Brunswick, GA",GA,299,1347
+"San Angelo, TX",TX,300,1214
+"Michigan City, IN",IN,301,921
+"Wenatchee, WA",WA,302,1586
+"Lawrence, KS",KS,303,1311
+"Decatur, IL",IL,304,955
+"Missoula, MT",MT,305,1403
+"Salem, OH",OH,306,855
+"Lewiston, ME",ME,307,1286
+"Roseburg, OR",OR,308,1097
+"Sumter, SC",SC,309,848
+"Meridian, MS",MS,310,893
+"Bluefield, WV",WV,311,852
+"Danville, VA",VA,312,907
+"Lima, OH",OH,313,890
+"Cookeville, TN",TN,314,1011
+"California-Lexington Park, MD",MD,315,1626
+"Gadsden, AL",AL,316,873
+"Longview, WA",WA,317,1366
+"Ithaca, NY",NY,318,1655
+"Ashtabula, OH",OH,319,900
+"Gettysburg, PA",PA,320,1316
+"Pine Bluff, AR",AR,321,747
+"Tullahoma, TN",TN,322,1162
+"Richmond, KY",KY,323,1026
+"Adrian, MI",MI,324,1066
+"Twin Falls, ID",ID,325,1107
+"Corning, NY",NY,326,1293
+"Sebring, FL",FL,327,1140
+"Truckee, CA",CA,328,1979
+"Paducah, KY",KY,329,947
+"Grand Forks, ND",ND,330,1190
+"Fairbanks, AK",AK,331,1672
+"Mankato, MN",MN,332,1311
+"Cape Girardeau, MO",MO,333,909
+"Hot Springs, AR",AR,334,1101
+"Greenwood, SC",SC,335,1001
+"Clarksburg, WV",WV,336,866
+"Talladega, AL",AL,337,985
+"Dubuque, IA",IA,338,1111
+"Albertville, AL",AL,339,927
+"Manhattan, KS",KS,340,1208
+"Parkersburg, WV",WV,341,874
+"New Philadelphia, OH",OH,342,968
+"Orangeburg, SC",SC,343,949
+"Cheyenne, WY",WY,344,1187
+"Brainerd, MN",MN,345,1282
+"Kalispell, MT",MT,346,1431
+"Ames, IA",IA,347,1241
+"Bozeman, MT",MT,348,1702
+"Moses Lake, WA",WA,349,997
+"Meadville, PA",PA,350,1039
+"Hermiston-Pendleton, OR",OR,351,1314
+"Zanesville, OH",OH,352,931
+"Corvallis, OR",OR,353,1836
+"Bloomsburg, PA",PA,354,1151
+"Russellville, AR",AR,355,883
+"Midland, MI",MI,356,1093
+"Opelousas, LA",LA,357,1099
+"Pocatello, ID",ID,358,933
+"Kokomo, IN",IN,359,810
+"Grants Pass, OR",OR,360,1334
+"Huntsville, TX",TX,361,1278
+"Plattsburgh, NY",NY,362,1484
+"Grand Island, NE",NE,363,1147
+"DuBois, PA",PA,364,958
+"Great Falls, MT",MT,365,1209
+"Olean, NY",NY,366,1187
+"Auburn, NY",NY,367,1377
+"Portsmouth, OH",OH,368,873
+"Oak Harbor, WA",WA,369,1657
+"Chillicothe, OH",OH,370,975
+"Hinesville, GA",GA,371,1023
+"Stillwater, OK",OK,372,1175
+"Quincy, IL",IL,373,1094
+"Keene, NH",NH,374,1463
+"Sandusky, OH",OH,375,1109
+"Searcy, AR",AR,376,901
+"Columbus, IN",IN,377,1185
+"Roanoke Rapids, NC",NC,378,858
+"Centralia, WA",WA,379,1216
+"Helena, MT",MT,380,1283
+"Palatka, FL",FL,381,1058
+"Mount Airy, NC",NC,382,1038
+"Key West, FL",FL,383,3346
+"Aberdeen, WA",WA,384,1004
+"Gallup, NM",NM,385,1038
+"Port Angeles, WA",WA,386,1473
+"Greenfield Town, MA",MA,387,1813
+"Muskogee, OK",OK,388,665
+"Frankfort, KY",KY,389,1029
+"Statesboro, GA",GA,390,1095
+"Marion, IN",IN,391,788
+"Shawnee, OK",OK,392,802
+"North Wilkesboro, NC",NC,393,1092
+"Richmond, IN",IN,394,810
+"Greeneville, TN",TN,395,812
+"Martinsville, VA",VA,396,919
+"Forest City, NC",NC,397,986
+"Lake City, FL",FL,398,1203
+"LaGrange, GA",GA,399,917
+"Marion, OH",OH,400,818
+"Klamath Falls, OR",OR,401,1125
+"Marshall, TX",TX,402,965
+"Charleston, IL",IL,403,1155
+"Clearlake, CA",CA,404,1490
+"Hutchinson, KS",KS,405,786
+"Faribault, MN",MN,406,1421
+"Elizabeth City, NC",NC,407,1126
+"Alamogordo, NM",NM,408,919
+"Red Bluff, CA",CA,409,1138
+"Hudson, NY",NY,410,1614
+"Coos Bay, OR",OR,411,1309
+"Walla Walla, WA",WA,412,1299
+"Oneonta, NY",NY,413,1197
+"Baraboo, WI",WI,414,1135
+"Marietta, OH",OH,415,1033
+"Salina, KS",KS,416,842
+"Big Stone Gap, VA",VA,417,980
+"Sturgis, MI",MI,418,1017
+"Fremont, OH",OH,419,999
+"Mount Vernon, OH",OH,420,1084
+"Lewiston, ID",ID,421,1292
+"Shelton, WA",WA,422,1439
+"Albemarle, NC",NC,423,1098
+"Enid, OK",OK,424,932
+"Jefferson, GA",GA,425,1343
+"Laconia, NH",NH,426,1470
+"Batavia, NY",NY,427,1361
+"Oxford, NC",NC,428,1185
+"Columbus, MS",MS,429,1076
+"Kinston, NC",NC,430,896
+"Sterling, IL",IL,431,1084
+"Palestine, TX",TX,432,1139
+"Dublin, GA",GA,433,953
+"Vicksburg, MS",MS,434,1119
+"Sanford, NC",NC,435,977
+"Fergus Falls, MN",MN,436,1296
+"Tiffin, OH",OH,437,934
+"Fairmont, WV",WV,438,890
+"Crossville, TN",TN,439,1166
+"Picayune, MS",MS,440,1147
+"Gloversville, NY",NY,441,1378
+"Sonora, CA",CA,442,1444
+"Carson City, NV",NV,443,1494
+"Calhoun, GA",GA,444,1129
+"Milledgeville, GA",GA,445,1069
+"Waycross, GA",GA,446,942
+"Morgan City, LA",LA,447,1084
+"Eagle Pass, TX",TX,448,1132
+"Ontario, OR",OR,449,1233
+"Carlsbad, NM",NM,450,1116
+"Payson, AZ",AZ,451,1297
+"McComb, MS",MS,452,940
+"Rochelle, IL",IL,453,1273
+"Scottsboro, AL",AL,454,881
+"Greenville, OH",OH,455,978
+"Warrensburg, MO",MO,456,1010
+"Fort Leonard Wood, MO",MO,457,890
+"Glasgow, KY",KY,458,920
+"Edwards, CO",CO,459,3829
+"Fernley, NV",NV,460,1449
+"Platteville, WI",WI,461,1083
+"Boone, NC",NC,462,1370
+"Bartlesville, OK",OK,463,903
+"Jacksonville, TX",TX,464,1157
+"Elko, NV",NV,465,1395
+"Rexburg, ID",ID,466,1175
+"St. Marys, GA",GA,467,1140
+"Ozark, AL",AL,468,849
+"Amsterdam, NY",NY,469,1333
+"Enterprise, AL",AL,470,887
+"Kerrville, TX",TX,471,1463
+"New Castle, IN",IN,472,805
+"Sidney, OH",OH,473,1062
+"Cortland, NY",NY,474,1383
+"Clinton, IA",IA,475,947
+"Del Rio, TX",TX,476,1213
+"Burlington, IA",IA,477,915
+"Cadillac, MI",MI,478,949
+"Ardmore, OK",OK,479,836
+"Kendallville, IN",IN,480,1030
+"Nogales, AZ",AZ,481,1173
+"Oxford, MS",MS,482,1377
+"Plymouth, IN",IN,483,1088
+"Gardnerville Ranchos, NV",NV,484,1859
+"Tahlequah, OK",OK,485,851
+"Cañon City, CO",CO,486,1237
+"Ruston, LA",LA,487,1206
+"Lewistown, PA",PA,488,994
+"Rockingham, NC",NC,489,874
+"Blytheville, AR",AR,490,821
+"Red Wing, MN",MN,491,1411
+"Cedar City, UT",UT,492,1173
+"Bedford, IN",IN,493,847
+"Newport, OR",OR,494,1456
+"Bellefontaine, OH",OH,495,1007
+"McAlester, OK",OK,496,850
+"Blackfoot, ID",ID,497,1068
+"Henderson, NC",NC,498,970
+"Coldwater, MI",MI,499,984
+"Rolla, MO",MO,500,785
+"Shelbyville, TN",TN,501,1217
+"Duncan, OK",OK,502,736
+"Pullman, WA",WA,503,1395
+"Bemidji, MN",MN,504,1285
+"Pahrump, NV",NV,505,1313
+"Menomonie, WI",WI,506,1300
+"Bucyrus, OH",OH,507,799
+"Bradford, PA",PA,508,908
+"Bardstown, KY",KY,509,1013
+"Cornelia, GA",GA,510,1180
+"Muscatine, IA",IA,511,1132
+"Alma, MI",MI,512,858
+"Durant, OK",OK,513,935
+"Seymour, IN",IN,514,972
+"Willmar, MN",MN,515,1246
+"Auburn, IN",IN,516,1054
+"Paragould, AR",AR,517,887
+"Warren, PA",PA,518,974
+"Mountain Home, AR",AR,519,984
+"Cedartown, GA",GA,520,1016
+"Port Clinton, OH",OH,521,1139
+"El Campo, TX",TX,522,1299
+"Montrose, CO",CO,523,1331
+"Ellensburg, WA",WA,524,1614
+"Sandpoint, ID",ID,525,1322
+"Alice, TX",TX,526,1101
+"Celina, OH",OH,527,1116
+"Garden City, KS",KS,528,1131
+"Marshalltown, IA",IA,529,851
+"Cullowhee, NC",NC,530,1284
+"Espa±ola, NM",NM,531,1160
+"Tifton, GA",GA,532,1079
+"Urbana, OH",OH,533,1026
+"Okeechobee, FL",FL,534,1313
+"Selinsgrove, PA",PA,535,1195
+"Natchitoches, LA",LA,536,1196
+"Berlin, NH",NH,537,1171
+"Lock Haven, PA",PA,538,927
+"Sikeston, MO",MO,539,807
+"Clewiston, FL",FL,540,1287
+"Logansport, IN",IN,541,758
+"Pontiac, IL",IL,542,1113
+"Mount Vernon, IL",IL,543,955
+"Houghton, MI",MI,544,930
+"Gainesville, TX",TX,545,1352
+"Kill Devil Hills, NC",NC,546,1454
+"Crawfordsville, IN",IN,547,974
+"Brownwood, TX",TX,548,937
+"Stephenville, TX",TX,549,1244
+"Easton, MD",MD,550,1685
+"North Platte, NE",NE,551,1064
+"Newberry, SC",SC,552,967
+"Ada, OK",OK,553,882
+"Moscow, ID",ID,554,1315
+"Safford, AZ",AZ,555,1230
+"Murray, KY",KY,556,990
+"Huntington, IN",IN,557,894
+"Mayfield, KY",KY,558,870
+"Escanaba, MI",MI,559,920
+"Astoria, OR",OR,560,1539
+"Peru, IN",IN,561,772
+"Coshocton, OH",OH,562,858
+"Newton, IA",IA,563,1055
+"Fremont, NE",NE,564,1150
+"Hutchinson, MN",MN,565,1282
+"Batesville, AR",AR,566,871
+"Owatonna, MN",MN,567,1271
+"Vidalia, GA",GA,568,1033
+"Laramie, WY",WY,569,1157
+"Plainview, TX",TX,570,895
+"Big Spring, TX",TX,571,1043
+"Laurinburg, NC",NC,572,843
+"Dixon, IL",IL,573,1113
+"Alexandria, MN",MN,574,1331
+"DeRidder, LA",LA,575,1147
+"Lebanon, MO",MO,576,822
+"Coffeyville, KS",KS,577,665
+"Seneca Falls, NY",NY,578,1333
+"Sulphur Springs, TX",TX,579,1332
+"Susanville, CA",CA,580,1315
+"Arcadia, FL",FL,581,1294
+"Junction City, KS",KS,582,1031
+"Butte, MT",MT,583,916
+"Angola, IN",IN,584,1139
+"Dodge City, KS",KS,585,873
+"Brenham, TX",TX,586,1413
+"Emporia, KS",KS,587,765
+"Jackson, OH",OH,588,876
+"Frankfort, IN",IN,589,853
+"Taos, NM",NM,590,1256
+"Malvern, AR",AR,591,865
+"Troy, AL",AL,592,989
+"Cambridge, MD",MD,593,1320
+"Vernal, UT",UT,594,899
+"Kingsville, TX",TX,595,1098
+"Madison, IN",IN,596,928
+"Hastings, NE",NE,597,1077
+"Albert Lea, MN",MN,598,1040
+"Lincoln, IL",IL,599,969
+"Jesup, GA",GA,600,1052
+"Alpena, MI",MI,601,871
+"Silver City, NM",NM,602,877
+"Washington Court House, OH",OH,603,962
+"Van Wert, OH",OH,604,919
+"Ludington, MI",MI,605,1008
+"Hays, KS",KS,606,1121
+"Hailey, ID",ID,607,1491
+"Great Bend, KS",KS,608,740
+"Weatherford, OK",OK,609,921
+"Grants, NM",NM,610,961
+"Mountain Home, ID",ID,611,1027
+"Altus, OK",OK,612,692
+"Boone, IA",IA,613,1067
+"Toccoa, GA",GA,614,1057
+"Ottawa, KS",KS,615,956
+"Marshall, MN",MN,616,1176
+"La Grande, OR",OR,617,1338
+"Greensburg, IN",IN,618,1010
+"Mexico, MO",MO,619,884
+"Moberly, MO",MO,620,863
+"The Dalles, OR",OR,621,1466
+"Fallon, NV",NV,622,1356
+"Fredericksburg, TX",TX,623,1670
+"Connersville, IN",IN,624,728
+"Spearfish, SD",SD,625,1272
+"Steamboat Springs, CO",CO,626,1943
+"Cordele, GA",GA,627,912
+"Wahpeton, ND",ND,628,1032
+"Mitchell, SD",SD,629,1067
+"Sterling, CO",CO,630,1316
+"Pampa, TX",TX,631,996
+"Brookings, OR",OR,632,1522
+"Hood River, OR",OR,633,1824
+"Beatrice, NE",NE,634,1073
+"Elk City, OK",OK,635,846
+"Dumas, TX",TX,636,1032
+"Price, UT",UT,637,1055
+"Worthington, MN",MN,638,1062
+"Pierre, SD",SD,639,1201
+"Prineville, OR",OR,640,1441
+"Woodward, OK",OK,641,913
+"Othello, WA",WA,642,1258
+"Los Alamos, NM",NM,643,1445
+"Atchison, KS",KS,644,850
+"Snyder, TX",TX,645,986
+"Fairfield, IA",IA,646,968
+"Winnemucca, NV",NV,647,1328
+"Sweetwater, TX",TX,648,982
+"Andrews, TX",TX,649,1248
+"Craig, CO",CO,650,1344
+"Pecos, TX",TX,651,980
+"Vernon, TX",TX,652,985
